@@ -3,7 +3,7 @@ m102
 
 Subtitulos
 
-mplayer -sub *$1*srt *$1*mp4
+[mplayer](http://www.mplayerhq.hu/design7/dload.html) -sub *$1*srt *$1*mp4
 
 Ej.
 ```
